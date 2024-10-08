@@ -92,20 +92,6 @@ Follow the prompts to select a game and start playing.
 - After each round, users can choose to play again or switch games.
 - Statistics are displayed at the end of each game session.
 
-## 📂 File Structure
-
-├── game_platform.py # Main Python file containing all the game logic
-└── README.md # This README file
-└── LICENSE # License information
-
-## 🛠️ Customization
-
-You can easily modify the following constants in the `game_platform.py` file to adjust game settings:
-
-- **NUMBER_OF_GUESSES**: Number of attempts allowed in the Number Guessing Game (default is 5).
-- **LOWEST_NUMBER** and **HIGHEST_NUMBER**: The range of numbers for the Number Guessing Game.
-- **HIGHEST_DICE_VALUE**: The maximum value on the dice for the Dice Rolling Game (default is 6).
-
 ## 📝 License
 
 This project is open source and available under the MIT License.
