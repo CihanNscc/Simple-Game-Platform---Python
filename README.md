@@ -23,8 +23,8 @@ This is a simple showcase of common programming concepts in Python.
 
 ### Control Flow:
 
-- The project uses conditional statements (if, elif, else) to compare the player's choices against the computer's choices and determine outcomes.
-- Loops: while loops are used to continuously run game rounds and request input until a valid response or a specific condition (e.g., quitting the game) is met.
+- **Conditions:** The project uses conditional statements (if, elif, else) to compare the player's choices against the computer's choices and determine outcomes.
+- **Loops:** while loops are used to continuously run game rounds and request input until a valid response or a specific condition (e.g., quitting the game) is met.
 
 ### Function Abstraction:
 
